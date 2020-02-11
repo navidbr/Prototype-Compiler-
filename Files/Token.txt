@@ -1,0 +1,7 @@
+ gvjhgvk	Identifier	Block : 1	Col : 1	Row : 1
+ lkjblhjb	Identifier	Block : 1	Col : 9	Row : 1
+ ;	Delimiter	Block : 1	Col : 17	Row : 1
+ liljkn	Identifier	Block : 1	Col : 1	Row : 2
+ ;	Delimiter	Block : 1	Col : 7	Row : 2
+ lhkkjhblkj	Identifier	Block : 1	Col : 1	Row : 3
+ ;	Delimiter	Block : 1	Col : 11	Row : 3

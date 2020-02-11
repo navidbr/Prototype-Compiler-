@@ -1,0 +1,8 @@
+F:\C# Projects\Compiler Project\Compiler Project Phase1\Compiler Project Phase1\bin\Debug\Compiler Project Phase1.exe
+F:\C# Projects\Compiler Project\Compiler Project Phase1\Compiler Project Phase1\bin\Debug\Compiler Project Phase1.pdb
+F:\C# Projects\Compiler Project\Compiler Project Phase1\Compiler Project Phase1\obj\Debug\Compiler Project Phase1.csprojResolveAssemblyReference.cache
+F:\C# Projects\Compiler Project\Compiler Project Phase1\Compiler Project Phase1\obj\Debug\Compiler_Project_Phase1.Properties.Resources.resources
+F:\C# Projects\Compiler Project\Compiler Project Phase1\Compiler Project Phase1\obj\Debug\Compiler Project Phase1.csproj.GenerateResource.Cache
+F:\C# Projects\Compiler Project\Compiler Project Phase1\Compiler Project Phase1\obj\Debug\Compiler Project Phase1.exe
+F:\C# Projects\Compiler Project\Compiler Project Phase1\Compiler Project Phase1\obj\Debug\Compiler Project Phase1.pdb
+F:\C# Projects\Compiler Project\Compiler Project Phase1\Compiler Project Phase1\obj\Debug\Compiler_Project_Phase1.Form1.resources
